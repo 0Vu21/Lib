@@ -72,7 +72,7 @@
   "DFIntCliMaxPayloadRcv": "2147483647",
   "DFIntCliMaxPayloadSnd": "2147483647",
   "DFIntRccMaxPayloadRcv": "2147483647",
-  "DFIntTaskSchedulerTargetFps": "165",
+  "DFIntTaskSchedulerTargetFps": "144",
   "DFIntTextureQualityOverride": "0",
   "DFIntClientPacketMaxDelayMs": "1",
   "DFIntAssetPreloading": "99999999",
