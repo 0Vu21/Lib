@@ -7,7 +7,7 @@
   "DFIntGraphicsOptimizationModeMaxFrameTimeTargetMs": "360",
   "DFIntGraphicsOptimizationModeMinFrameTimeTargetMs": "360",
   "FFlagDebugCheckRenderThreading": "True",
-  "DFIntTaskSchedulerTargetFps": "120",
+  "DFIntTaskSchedulerTargetFps": "165",
   "FFlagEnableFPSAndFrameTime": "True",
   "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
   "DFStringTelemetryV2Url": "0.0.0.0",
@@ -105,5 +105,14 @@
   "DFIntSignalRCoreHubMaxBackoffMs": "5000",
   "FFlagDebugGraphicsPreferOpenGL": "True",
   "FFlagDebugGraphicsPreferD3D11": "True",
-  "FIntRenderShadowIntensity": "0"
+  "FIntRenderShadowIntensity": "0",
+  "FFlagDebugDisableTelemetryEphemeralCounter": "True",
+  "FFlagDebugDisableTelemetryEphemeralStat": "True",
+  "FFlagDebugDisableTelemetryEventIngest": "True",
+  "FFlagDebugDisableTelemetryV2Counter": "True",
+  "FFlagDebugDisableTelemetryV2Event": "True",
+  "FFlagDebugDisableTelemetryV2Stat": "True",
+  "FFlagDisablePostFx": "True",
+  "FIntTerrainArraySliceSize": "0",
+  "FFlagAlwaysShowVRToggleV3": "False"
 }
