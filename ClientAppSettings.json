@@ -7,7 +7,7 @@
   "DFIntGraphicsOptimizationModeMaxFrameTimeTargetMs": "360",
   "DFIntGraphicsOptimizationModeMinFrameTimeTargetMs": "360",
   "FFlagDebugCheckRenderThreading": "True",
-  "DFIntTaskSchedulerTargetFps": "165",
+  "DFIntTaskSchedulerTargetFps": "120",
   "FFlagEnableFPSAndFrameTime": "True",
   "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
   "DFStringTelemetryV2Url": "0.0.0.0",
