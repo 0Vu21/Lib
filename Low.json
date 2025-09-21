@@ -15,7 +15,7 @@
   "FIntRenderShadowIntensity": "0",
   "FFlagDisablePostFx": "True",
   "FIntTerrainArraySliceSize": "0",
-  "DFIntTaskSchedulerTargetFps": "165",
+  "DFIntTaskSchedulerTargetFps": "120",
   "FFlagDebugGraphicsPreferOpenGL": "True",
   "FFlagDebugGraphicsPreferD3D11": "True",
   "DFIntConnectionMTUSize": "900",
@@ -25,4 +25,5 @@
   "FIntRuntimeMaxNumOfThreads": "2400",
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DFIntDebugFRMQualityLevelOverride": "1"
+
 }
